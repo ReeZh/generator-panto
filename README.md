@@ -1,2 +1,2 @@
 # generator-panto
-Yeoman Panto WordPress Theme Boilerplate Generator
+Yeoman Panto HTML Boilerplate Generator
